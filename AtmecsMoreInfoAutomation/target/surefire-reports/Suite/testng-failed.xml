@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="ExploreNowTest(failed)">
+    <classes>
+      <class name="com.atmecsautomation.testscripts.ExploreNowScripts">
+        <methods>
+          <include name="intitailizeBrowser"/>
+          <include name="closeDriver"/>
+          <include name="exploreNow" invocation-numbers="0"/>
+          <include name="startReport"/>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.atmecsautomation.testscripts.ExploreNowScripts -->
+    </classes>
+  </test> <!-- ExploreNowTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

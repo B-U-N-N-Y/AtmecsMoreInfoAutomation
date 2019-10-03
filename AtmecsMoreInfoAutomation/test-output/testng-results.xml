@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="90189" started-at="2019-10-03T13:09:53Z" finished-at="2019-10-03T13:11:24Z">
+    <groups>
+    </groups>
+    <test name="ExploreNowTest" duration-ms="40841" started-at="2019-10-03T13:09:53Z" finished-at="2019-10-03T13:10:34Z">
+      <class name="com.atmecsautomation.testscripts.ExploreNowScripts">
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d]" name="intitailizeBrowser" is-config="true" duration-ms="27112" started-at="2019-10-03T13:09:53Z" finished-at="2019-10-03T13:10:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="homePageRedirection(java.lang.String)[pri:0, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d]" name="homePageRedirection" duration-ms="151" started-at="2019-10-03T13:10:22Z" data-provider="homepagetitle" finished-at="2019-10-03T13:10:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageRedirection -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d]" name="tearDown" is-config="true" duration-ms="6" started-at="2019-10-03T13:10:22Z" finished-at="2019-10-03T13:10:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePageRedirection status=SUCCESS method=ExploreNowScripts.homePageRedirection(java.lang.String)[pri:0, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="exploreNow(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d]" name="exploreNow" duration-ms="10870" started-at="2019-10-03T13:10:22Z" data-provider="explorenow" finished-at="2019-10-03T13:10:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Services | Atmecs, Inc. | Digital Solutions & Product Engineering Services]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Services]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exploreNow -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-03T13:10:33Z" finished-at="2019-10-03T13:10:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=exploreNow status=SUCCESS method=ExploreNowScripts.exploreNow(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.atmecsautomation.testscripts.ExploreNowScripts@343f4d3d]" name="closeDriver" is-config="true" duration-ms="1064" started-at="2019-10-03T13:10:33Z" finished-at="2019-10-03T13:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.atmecsautomation.testscripts.ExploreNowScripts -->
+    </test> <!-- ExploreNowTest -->
+    <test name="MoreInfoTest" duration-ms="49318" started-at="2019-10-03T13:10:34Z" finished-at="2019-10-03T13:11:24Z">
+      <class name="com.atmecsautomation.testscripts.MoreInfoScripts">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="startReport" is-config="true" duration-ms="452" started-at="2019-10-03T13:09:53Z" finished-at="2019-10-03T13:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="intitailizeBrowser" is-config="true" duration-ms="21127" started-at="2019-10-03T13:10:34Z" finished-at="2019-10-03T13:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="moreInfo" duration-ms="5756" started-at="2019-10-03T13:10:55Z" data-provider="moreinfo" finished-at="2019-10-03T13:11:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Artificial Intelligence/Machine Learing | Leap at the possibilities of AI/ML]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Artificial Intelligence / Machine Learning]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreInfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-03T13:11:01Z" finished-at="2019-10-03T13:11:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=moreInfo status=SUCCESS method=MoreInfoScripts.moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="moreInfo" duration-ms="6115" started-at="2019-10-03T13:11:01Z" data-provider="moreinfo" finished-at="2019-10-03T13:11:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mixed Reality | We engineer the technology. You achieve the unreal.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Augmented Reality / Virtual Reality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreInfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-03T13:11:07Z" finished-at="2019-10-03T13:11:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=moreInfo status=SUCCESS method=MoreInfoScripts.moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="moreInfo" duration-ms="4971" started-at="2019-10-03T13:11:07Z" data-provider="moreinfo" finished-at="2019-10-03T13:11:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Internet of Things | Reform your customer experience with IoT Data]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Internet of Things]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Internet of Things]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreInfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-10-03T13:11:12Z" finished-at="2019-10-03T13:11:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=moreInfo status=SUCCESS method=MoreInfoScripts.moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="moreInfo" duration-ms="4839" started-at="2019-10-03T13:11:12Z" data-provider="moreinfo" finished-at="2019-10-03T13:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RPA & ChatBOTs | Pave way for digital transformation with RPA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Robotic Process Automation & ChatBOTs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreInfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-03T13:11:17Z" finished-at="2019-10-03T13:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=moreInfo status=SUCCESS method=MoreInfoScripts.moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="moreInfo" duration-ms="5133" started-at="2019-10-03T13:11:17Z" data-provider="moreinfo" finished-at="2019-10-03T13:11:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blockchain | ATMECS, Inc.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home › Services › Digital Life › Blockchain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Blockchain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreInfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-03T13:11:22Z" finished-at="2019-10-03T13:11:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=moreInfo status=SUCCESS method=MoreInfoScripts.moreInfo(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="closeDriver" is-config="true" duration-ms="1299" started-at="2019-10-03T13:11:22Z" finished-at="2019-10-03T13:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecsautomation.testscripts.MoreInfoScripts@31a5c39e]" name="endReport" is-config="true" duration-ms="619" started-at="2019-10-03T13:11:24Z" finished-at="2019-10-03T13:11:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecsautomation.testscripts.MoreInfoScripts -->
+    </test> <!-- MoreInfoTest -->
+  </suite> <!-- Suite -->
+</testng-results>

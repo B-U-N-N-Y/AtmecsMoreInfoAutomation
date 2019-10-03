@@ -1,0 +1,244 @@
+2019-10-03 15:13:30,250  INFO [main] ExploreNowScripts:30 - Page redirect to properpage
+2019-10-03 15:13:30,351  INFO [main] ExploreNowScripts:36 - Breadcrumb validate properly
+2019-10-03 15:13:55,716  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:13:55,821  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:14:00,646  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:14:00,754  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:14:06,526  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:14:06,623  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:14:11,353  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:14:11,451  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:14:15,926  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:14:16,030  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:14:19,212 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:14:19,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:14:19,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:14:19,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:14:19,221 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:14:19,515 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:14:19,516 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:14:19,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:14:19,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:14:19,518 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:19:06,293  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:19:06,697  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:19:11,753  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:19:11,930  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:19:17,779  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:19:17,879  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:19:23,361  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:19:23,499  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:19:47,538  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:19:47,621  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:19:53,216 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:19:53,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:19:53,231 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:19:53,231 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:19:53,231 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:19:53,575 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:19:53,575 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:19:53,575 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:19:53,575 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:19:53,575 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:22:34,760  INFO [main] ExploreNowScripts:30 - Page redirect to properpage
+2019-10-03 15:22:34,901  INFO [main] ExploreNowScripts:36 - Breadcrumb validate properly
+2019-10-03 15:22:40,935 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:22:40,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:22:40,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:22:40,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:22:40,935 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:22:41,279 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:22:41,279 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:22:41,279 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:22:41,294 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:22:41,294 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:23:21,309  INFO [main] ExploreNowScripts:30 - Page redirect to properpage
+2019-10-03 15:23:21,455  INFO [main] ExploreNowScripts:36 - Breadcrumb validate properly
+2019-10-03 15:23:45,432  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:23:45,625  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:23:51,004  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:23:51,100  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:23:56,007  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:23:56,127  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:24:01,934  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:24:02,022  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:24:08,259  INFO [main] MoreInfoScripts:30 - Page redirect to properpage
+2019-10-03 15:24:08,366  INFO [main] MoreInfoScripts:36 - Breadcrumb validate properly
+2019-10-03 15:24:15,302 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:24:15,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:24:15,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:24:15,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:24:15,302 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:24:15,646 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:24:15,646 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:24:15,646 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:24:15,646 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:24:15,646 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 16:43:25,643  INFO [main] ExploreNowScripts:26 - Page redirect Successfully
+2019-10-03 16:43:25,780  INFO [main] ExploreNowScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:43:25,860  INFO [main] ExploreNowScripts:38 - Page title validate Successfully
+2019-10-03 16:44:01,936  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:44:02,076  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:44:02,145  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:44:07,351  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:44:07,500  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:44:07,593  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:44:13,006  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:44:13,084  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:44:13,145  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:44:17,868  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:44:17,979  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:44:18,039  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:44:23,312  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:44:23,409  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:44:23,468  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:44:29,793 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 16:44:29,795 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 16:44:29,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 16:44:29,800 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 16:44:29,801 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 16:44:30,214 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 16:44:30,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 16:44:30,216 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 16:44:30,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 16:44:30,217 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 16:46:24,970  INFO [main] ExploreNowScripts:26 - Page redirect Successfully
+2019-10-03 16:46:25,381  INFO [main] ExploreNowScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:46:25,671  INFO [main] ExploreNowScripts:38 - Page title validate Successfully
+2019-10-03 16:46:40,750  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:46:41,147  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:46:41,503  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:46:49,226  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:46:49,548  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:46:49,854  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:46:56,363  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:46:56,679  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:46:56,969  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:47:05,158  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:47:05,496  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:47:05,780  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:47:14,858  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 16:47:15,221  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 16:47:15,524  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 16:47:19,394 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 16:47:19,397 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 16:47:19,402 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 16:47:19,404 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 16:47:19,405 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 16:47:19,902 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 16:47:19,903 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 16:47:19,903 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 16:47:19,904 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 16:47:19,905 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:03:45,148  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:03:45,614  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:03:46,007  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:04:13,413 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:04:13,416 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:04:13,418 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:04:13,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:04:13,421 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:04:13,909 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:04:13,910 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:04:13,913 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:04:13,915 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:04:13,916 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:06:33,034  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:06:33,537  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:06:34,011  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:06:43,710  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:06:44,070  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:06:44,402  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:06:52,189  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:06:52,639  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:06:52,996  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:07:00,025 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:07:00,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:07:00,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:07:00,035 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:07:00,035 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:07:00,534 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:07:00,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:07:00,539 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:07:00,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:07:00,541 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:07:36,544  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:07:37,028  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:07:37,467  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:07:45,073  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:07:45,425  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:07:45,755  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:07:52,179  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:07:52,545  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:07:52,884  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:07:59,390  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:07:59,770  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:08:00,095  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:08:07,627  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 17:08:07,996  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 17:08:08,315  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 17:08:11,929 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:08:11,934 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:08:11,938 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:08:11,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:08:11,946 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:08:12,528 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:08:12,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:08:12,532 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:08:12,532 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:08:12,533 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 18:37:54,650  INFO [main] ExploreNowScripts:26 - Page redirect Successfully
+2019-10-03 18:37:59,557  INFO [main] ExploreNowScripts:26 - Page redirect Successfully
+2019-10-03 18:38:00,015  INFO [main] ExploreNowScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:38:00,416  INFO [main] ExploreNowScripts:38 - Page title validate Successfully
+2019-10-03 18:38:14,879  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:38:15,305  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:38:15,658  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:38:23,704  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:38:24,030  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:38:24,351  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:38:32,994  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:38:33,454  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:38:33,773  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:38:40,466  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:38:40,848  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:38:41,177  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:38:44,732 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 18:38:44,734 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 18:38:44,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 18:38:44,741 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 18:38:44,742 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 18:38:45,211 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 18:38:45,212 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 18:38:45,213 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 18:38:45,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 18:38:45,214 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 18:40:22,627  INFO [main] ExploreNowScripts:26 - Page redirect Successfully
+2019-10-03 18:40:30,416  INFO [main] ExploreNowScripts:26 - Page redirect Successfully
+2019-10-03 18:40:30,593  INFO [main] ExploreNowScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:40:30,740  INFO [main] ExploreNowScripts:38 - Page title validate Successfully
+2019-10-03 18:40:58,689  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:40:58,807  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:40:58,991  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:41:04,801  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:41:04,968  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:41:05,074  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:41:10,326  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:41:10,458  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:41:10,572  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:41:15,190  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:41:15,293  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:41:15,402  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:41:20,099  INFO [main] MoreInfoScripts:26 - Page redirect Successfully
+2019-10-03 18:41:20,192  INFO [main] MoreInfoScripts:32 - Breadcrumb validate Successfully
+2019-10-03 18:41:20,319  INFO [main] MoreInfoScripts:38 - Page title validate Successfully
+2019-10-03 18:41:24,120 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 18:41:24,122 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 18:41:24,124 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 18:41:24,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 18:41:24,129 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 18:41:24,634 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 18:41:24,635 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 18:41:24,635 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 18:41:24,636 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 18:41:24,636 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
